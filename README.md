@@ -13,6 +13,8 @@ Install dependencies:
 npm i
 ```
 
+Add Google credentials to a `credentials` folder in the root directory.
+
 Run the server
 ```
 node server.js
